@@ -1,0 +1,94 @@
+%svg-common {
+	background: url("../assets/icons/svg/spriteSVG.svg") no-repeat;
+}
+
+.svg-2 {
+	@extend %svg-common;
+	background-position: 0 0;
+}
+
+.svg-2-box {
+	width: 35.09px;
+	height: 52px;
+}
+
+.svg-icon-email {
+	@extend %svg-common;
+	background-position: 99.33333333333333% 0;
+}
+
+.svg-icon-email-box {
+	width: 44px;
+	height: 44px;
+}
+
+.svg-icon-facebook {
+	@extend %svg-common;
+	background-position: 0 54.166666666666664%;
+}
+
+.svg-icon-facebook-box {
+	width: 50px;
+	height: 50px;
+}
+
+.svg-icon-inst {
+	@extend %svg-common;
+	background-position: 42.73504273504273% 54.166666666666664%;
+}
+
+.svg-icon-inst-box {
+	width: 50px;
+	height: 50px;
+}
+
+.svg-icon-location {
+	@extend %svg-common;
+	background-position: 99.33333333333333% 43.13725490196079%;
+}
+
+.svg-icon-location-box {
+	width: 44px;
+	height: 44px;
+}
+
+.svg-icon-phone {
+	@extend %svg-common;
+	background-position: 0 100%;
+}
+
+.svg-icon-phone-box {
+	width: 44px;
+	height: 44px;
+}
+
+.svg-icon-search {
+	@extend %svg-common;
+	background-position: 30.513043478260872% 0;
+}
+
+.svg-icon-search-box {
+	width: 52px;
+	height: 52px;
+}
+
+.svg-icon-twitter {
+	@extend %svg-common;
+	background-position: 35.77235772357724% 100%;
+}
+
+.svg-icon-twitter-box {
+	width: 44px;
+	height: 44px;
+}
+
+.svg-mouse {
+	@extend %svg-common;
+	background-position: 66.02228792358426% 0;
+}
+
+.svg-mouse-box {
+	width: 35.09px;
+	height: 52px;
+}
+

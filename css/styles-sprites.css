@@ -1,0 +1,106 @@
+.svg-2,
+.svg-icon-email,
+.svg-icon-facebook,
+.svg-icon-inst,
+.svg-icon-location,
+.svg-icon-phone,
+.svg-icon-search,
+.svg-icon-twitter,
+.svg-mouse {
+  background: url("../assets/icons/svg/spriteSVG.svg") no-repeat;
+}
+
+.svg-2 {
+  background-position: 0 0;
+}
+
+.svg-2-box {
+  width: 35.09px;
+  height: 52px;
+}
+
+.svg-icon-email {
+  background-position: 99.33333333333333% 0;
+}
+
+.svg-icon-email-box {
+  width: 44px;
+  height: 44px;
+}
+
+.svg-icon-facebook {
+  background-position: 0 54.166666666666664%;
+}
+
+.svg-icon-facebook-box {
+  width: 50px;
+  height: 50px;
+}
+
+.svg-icon-inst {
+  background-position: 42.73504273504273% 54.166666666666664%;
+}
+
+.svg-icon-inst-box {
+  width: 50px;
+  height: 50px;
+}
+
+.svg-icon-location {
+  background-position: 99.33333333333333% 43.13725490196079%;
+}
+
+.svg-icon-location-box {
+  width: 44px;
+  height: 44px;
+}
+
+.svg-icon-phone {
+  background-position: 0 100%;
+}
+
+.svg-icon-phone-box {
+  width: 44px;
+  height: 44px;
+}
+
+.svg-icon-search {
+  background-position: 30.513043478260872% 0;
+}
+
+.svg-icon-search-box {
+  width: 52px;
+  height: 52px;
+}
+
+.svg-icon-twitter {
+  background-position: 35.77235772357724% 100%;
+}
+
+.svg-icon-twitter-box {
+  width: 44px;
+  height: 44px;
+}
+
+.svg-mouse {
+  background-position: 66.02228792358426% 0;
+}
+
+.svg-mouse-box {
+  width: 35.09px;
+  height: 52px;
+}
+
+.icon-png {
+  background-image: url(../assets/icons/png/spritePNG.png);
+  background-position: -40px 0px;
+  width: 40px;
+  height: 40px;
+}
+
+.icon-webp {
+  background-image: url(../assets/icons/webp/spriteWEBP.webp);
+  background-position: -40px 0px;
+  width: 40px;
+  height: 40px;
+}
