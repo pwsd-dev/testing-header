@@ -1,2 +1,2 @@
-let header = 'header component works';
-console.log(header);
+// let header = 'header component works';
+// console.log(header);
